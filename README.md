@@ -16,16 +16,6 @@ Soy un desarrollador **frontend y backend** apasionado por la tecnología, la pr
 
 ---
 
-## 🚀 Proyectos Destacados
-
-- **[App del Clima 🌤️](https://github.com/briann39/weather-app)** – App que muestra pronósticos climáticos con geolocalización y fondos dinámicos.  
-- **[Chat en Tiempo Real 💬](https://github.com/briann39/belChat)** – Sistema de chat con autenticación, almacenamiento de mensajes y conexión en tiempo real.  
-- **[Portfolio Personal 🌐](https://github.com/briann39/portfolio)** – Mi portfolio donde muestro proyectos, habilidades y contacto.  
-
-*(Puedes añadir más proyectos según tu preferencia)*
-
----
-
 ## 📫 Contacto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://brainavlernas.vercel.app)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](brianalvernas8@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/briann39)
